@@ -26,6 +26,6 @@
   object-fit: cover;
 }
 
-.cards > ul >li:hover {
+.cards .cards-card-body {
   background-color: darkgray;
 }
