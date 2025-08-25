@@ -1,0 +1,7 @@
+.carousel > div {
+    background-color: grey;
+}
+
+.carousel > div > img {
+    width: 100%;
+}
