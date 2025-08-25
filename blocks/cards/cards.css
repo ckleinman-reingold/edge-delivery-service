@@ -26,6 +26,7 @@
   object-fit: cover;
 }
 
-.cards .cards-card-body:hover {
+.cards li:hover {
   background-color: darkgray;
+  transform: scale(108%);
 }
